@@ -19,38 +19,6 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-
-
-
+<br>
 ![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  
-
-<!-- [![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/wqe3ges2o5xoao39bv0h065uf) -->
-
-<!--
-```diff
-- !!! For all those dark-theme lovers out there, github doesn't 
-- support markdown with custom background or text color 😞. 
-- Make your voice heard on 👇🏾
-[this issue](https://github.com/github/markup/issues/1373)
-```
--->
-
-<details>
-<summary> 😎 More Detail </summary>
-
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 1,614 Contributions in the Year 2020
- > 
-> 📦 107.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories
- > 
-> 🔑 35 Private Repositories 
+ 
