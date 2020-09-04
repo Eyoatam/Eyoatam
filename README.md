@@ -7,9 +7,6 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
 - 🔭 💻 you can check out my repos for my recent works 
 - 👯 I’m looking to collaborate on Vue.js
 - 😄 Pronouns: He/Him
-
-<br><br>
-<hr/>
  
  <a href="https://codepen.io/Eyoatam">
   <img width="32" align="left"
@@ -21,5 +18,8 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
+
+<br><br>
+<hr/>
 <br><br>
 ![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
