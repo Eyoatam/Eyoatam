@@ -22,7 +22,7 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
 
 
 
-![GithubStars](https://github-readme-stats.vercel.app/api/?username=brookmg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
 
 <!-- [![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/wqe3ges2o5xoao39bv0h065uf) -->
