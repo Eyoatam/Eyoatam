@@ -11,7 +11,7 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
 <a href="https://codepen.io/Eyoatam">
   <img width="32" align="left"
      alt="My GitHub profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
 </a>
 <a href="https://www.instagram.com/eyoatam.codes">
   <img width="32" align="left"
