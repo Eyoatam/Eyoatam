@@ -19,6 +19,22 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-<br>
+<br><br>
+<hr/>
+
 ![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
+  
+<!-- [![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/wqe3ges2o5xoao39bv0h065uf) -->
+
+<!--
+```diff
+- !!! For all those dark-theme lovers out there, github doesn't 
+- support markdown with custom background or text color 😞. 
+- Make your voice heard on 👇🏾
+[this issue](https://github.com/github/markup/issues/1373)
+```
+-->
+
+<details>
+<summary> 😎 More Detail </summary>
