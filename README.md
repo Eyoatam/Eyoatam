@@ -21,4 +21,4 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
 <br><br>
 <hr/>
 
-![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=008cff&text_color=9f9f9e&bg_color=151515)
+![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=008cff&text_color=9f9f9f&bg_color=151515)
