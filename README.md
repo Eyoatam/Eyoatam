@@ -23,4 +23,4 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer
 
 ### My GitHub Stats
 
-![GithubStars](https://github-readme-stats.vercel.app/api/?username=Bengeos&show_icons=true&title_color=fff&icon_color=007cff&text_color=9e9e9e&bg_color=151515)
+![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=007cff&text_color=9e9e9e&bg_color=151515)
