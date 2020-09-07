@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
+I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer, I like learning new things
  and building websites for fun,
  
 - 🌱 I'm currently learning Vue.js. 
@@ -21,4 +21,4 @@ I'am Eyoatam, a 15 year old front-end-developer, I like learning new things
 <br><br>
 <hr/>
 
-![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=008cff&text_color=9e9e9e&bg_color=151515)
+![GithubStars](https://github-readme-stats.vercel.app/api/?username=Eyoatam&show_icons=true&title_color=fff&icon_color=007cff&text_color=9e9e9e&bg_color=151515)
