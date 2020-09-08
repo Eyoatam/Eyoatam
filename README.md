@@ -24,9 +24,9 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer
 
 ## My GitHub Stats
 
-<a href="https://github.com/BisratYalew/BisratYalew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/Eyoatam/Eyoatam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&line_height=27&count_private=true&title_color=ffff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" alt="Eyoatam's GitHub Stats" />
+</a>
+<a href="https://github.com/BisratYalew/BisratYalew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&hide=html,css&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" />
 </a>
