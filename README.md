@@ -8,9 +8,9 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer
 - 👯 I’m looking to collaborate on Vue.js
 - 😄 Pronouns: He/Him
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
- 
-<a href="https://codepen.io/Eyoatam" target="_blank">
+
+ <!-- Github doesn’t allow Target="_blank" on '.md' files-->
+<a href="https://codepen.io/Eyoatam">
   <img width="32" align="left"
      alt="My GitHub profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
