@@ -4,7 +4,7 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer
  and building websites for fun,
  
 - 🌱 I'm currently learning Vue.js. 
-- 🔭 💻 you can check out my repos for my recent works 
+- 🔭 you can check out my repos for my recent works 
 - 👯 I’m looking to collaborate on Vue.js
 - 😄 Pronouns: He/Him
 
