@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old front-end-developer, I like learning new things
- and building websites for fun,
+I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like learning new things
+ and building stuffs for fun,
  
 - 🌱 I'm currently learning Vue.js. 
 - 🔭 you can check out my repos for my recent works 
-- 👯 I’m looking to collaborate on Vue.js
+- 👯 I’m looking to collaborate on bot-development 🤖 
 - 😄 Pronouns: He/Him
 
 
