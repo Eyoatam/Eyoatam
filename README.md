@@ -26,10 +26,6 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 
 ## My GitHub Stats
 
-<a href="https://github.com/Eyoatam/Eyoatam" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eyoatam&count_private=false&show_icons=tru&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" alt="Eyoatam's GitHub Stats" />
-</a>
-
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Eyoatam&count_private=false&show_icons=tru&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)
