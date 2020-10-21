@@ -30,8 +30,8 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eyoatam&count_private=false&show_icons=tru&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" alt="Eyoatam's GitHub Stats" />
 </a>
 
-<!--[![eyoatam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eyoatam&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Eyoatam&count_private=false&show_icons=tru&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515"" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)
+
+<!--[![eyoatam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eyoatam&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
