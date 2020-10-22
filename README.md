@@ -30,4 +30,4 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)
 
-<!--[![eyoatam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eyoatam&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![eyoatam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyoatam&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
