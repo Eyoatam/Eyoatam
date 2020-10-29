@@ -8,8 +8,6 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 - 👯 I’m looking to collaborate on bot-development 🤖 
 - 😄 Pronouns: He/Him
 
-
- <!-- Github doesn’t allow Target="_blank" on '.md' files-->
 <a href="https://codepen.io/Eyoatam">
   <img width="32" align="left"
      alt="My GitHub profile"
