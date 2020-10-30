@@ -5,7 +5,7 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
  
 - 🌱 I'm currently learning Vue.js. 
 - 🔭 I'm working on [prayer-mobilization-telegram-bot](https://github.com/crusea/prayer-mobilization-nodejs-telegram-bot)
-- 👯 I’m looking to collaborate on bot-development 🤖 
+- 👯 I’m looking to collaborate on telegram-bot-development 🤖 
 - 😄 Pronouns: He/Him
 
 <a href="https://codepen.io/Eyoatam">
