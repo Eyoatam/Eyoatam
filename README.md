@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like learning new things
+I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like learning new things that improve my skills
  and building stuffs for fun,
  
 - 🌱 I'm currently learning Vue.js. 
