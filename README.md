@@ -22,7 +22,7 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 <hr/>
 
 
-## My GitHub Stats
+## My GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Eyoatam&show_icons=true&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" alt="Eyoatam's github stats" />
