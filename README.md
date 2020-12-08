@@ -1,14 +1,18 @@
-### Hi there 👋
+## Hey there 👋
 
 I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like learning new things that improve my skills
  and building stuffs for fun,
  
+- 👯 I’m looking to collaborate on open source projects 
+- 😄 Pronouns: He/Him
+
  <!--
 - 🌱 I'm currently learning Vue.js. 
 - 👯 I’m looking to collaborate on telegram-bot-development 🤖 
 - 😄 Pronouns: He/Him
 -->
 
+<!--
 <a href="https://codepen.io/Eyoatam">
   <img width="32" align="left"
      alt="My GitHub profile"
@@ -21,6 +25,7 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 </a>
 <br><br>
 <hr/>
+-->
 
 
 ## My GitHub Status
