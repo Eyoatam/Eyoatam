@@ -1,10 +1,10 @@
-## Hey there 👋
+<!-- ## Hey there 👋
 
 I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like learning new things that improve my skills
  and building stuffs for fun,
- 
-- 👯 I’m looking to collaborate on open source projects 
-- 😄 Pronouns: He/Him
+
+- 👯 I’m looking to collaborate on open source projects
+- 😄 Pronouns: He/Him -->
 
  <!--
 - 🌱 I'm currently learning Vue.js. 
@@ -27,8 +27,7 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 <hr/>
 -->
 
-
-## My GitHub Status
+<!-- ## My GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Eyoatam&show_icons=true&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" alt="Eyoatam's github stats" />
@@ -36,4 +35,12 @@ I'am [Eyoatam](https://www.gitub.com/eyoatam), a 15 year old developer, I like l
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&line_height=27&title_color=fff&text_color=9e9e9e&icon_color=008cff&bg_color=151515" />
-</a>
+</a> -->
+
+<div align="center">
+	<br>
+	<a href="https://github.com/Eyoatam/Eyoatam/blame/master/info.svg">
+		<img src="info.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
