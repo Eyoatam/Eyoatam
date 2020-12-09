@@ -1,7 +1,3 @@
 <div align="center">
-	<br>
-	<a href="https://github.com/Eyoatam/Eyoatam/blame/master/octocat.gif">
-		<img src="info.svg" width="800" height="400">
-	</a>
-	<br>
+		<img src="https://github.com/Eyoatam/Eyoatam/blob/master/octocat.gif" width="800" height="400">
 </div>
