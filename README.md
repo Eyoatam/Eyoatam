@@ -106,10 +106,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&theme=dark" alt="yoyo930021" />
 </p>
 
+<!--
 <br><br><hr>
 <div align="center">
 	<img src="https://github.com/Eyoatam/Eyoatam/raw/master/octocat.gif">
 </div>
-
 > Note: The Above Octocat was from (https://myoctocat.dev/@gavinzanerafter/octocat-hacker/source/published), I just made a few changes to make it look the way I wanted.
 
+-->
