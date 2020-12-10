@@ -1,5 +1,5 @@
 <h1>Hey There 👋, I'm Eyoatam</h1>
-<h3>A fullstack developer from Ethiopia</h3>
+<h3>A Fullstack Javascript developer from Ethiopia</h3>
 <br>
 
 - 🌱 I’m currently learning **Typescript**
