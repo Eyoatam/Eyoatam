@@ -2,7 +2,7 @@
 <h3>A Fullstack Javascript developer from Ethiopia</h3>
 <br>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and Unit Testing With Jest**
 
 - 🧑🏽‍💻 You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
