@@ -1,12 +1,14 @@
-<h1>Hey There 👋, I'm Eyoatam</h1>
-<h3>A Fullstack Javascript developer from Ethiopia</h3>
+<!--<h1>Hey There 👋</h1>
 <br>
+<p>My Name is [Eyoatam](https://instagram.com/eyoatam) I'm a 15 year old developer from Ethiopia</p>-->
+Hi‼ My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year old developer from Ethiopia
 
-- 🌱 I’m currently learning **Typescript and Unit Testing With Jest**
 
-- 🧑🏽‍💻 You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
+- 🔭 I’m currently learning **Typescript and Unit Testing With Jest**
 
-- 📫 How to reach me **eyoatamtamirat7@gmail.com**
+- 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
+
+- 📫  You can reach me through my email **eyoatamtamirat7@gmail.com**
 
 - 😄 pronouns He/Him
 
