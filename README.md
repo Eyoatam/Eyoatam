@@ -100,17 +100,7 @@
 </p>
 
 ### My Github Status 📈 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eyoatam&theme=onedark" alt="yoyo930021" /></a> </p>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&theme=dark" alt="yoyo930021" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&theme=dark" alt="yoyo930021" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&theme=prussian" alt="Eyoatam's Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&theme=prussian" alt="Eyoatam's Github Status" />
 </p>
-
-<!--
-<br><br><hr>
-<div align="center">
-	<img src="https://github.com/Eyoatam/Eyoatam/raw/master/octocat.gif">
-</div>
-> Note: The Above Octocat was from (https://myoctocat.dev/@gavinzanerafter/octocat-hacker/source/published), I just made a few changes to make it look the way I wanted.
-
--->
