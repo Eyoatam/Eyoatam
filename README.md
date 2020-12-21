@@ -1,10 +1,7 @@
-<!--<h1>Hey There 👋</h1>
-<br>
-<p>My Name is [Eyoatam](https://instagram.com/eyoatam) I'm a 15 year old developer from Ethiopia</p>-->
-Hi‼ My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year old developer from Ethiopia
+Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year old developer from Ethiopia
 
 
-- 🔭 I’m currently learning **Typescript and Unit Testing With Jest**
+- 🔭 I’m currently learning **Typescript and Javascirpt Testing With Jest**
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
