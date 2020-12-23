@@ -1,7 +1,7 @@
 Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year old developer from Ethiopia
 
 
-- 🔭 I’m currently learning **Typescript and Javascirpt Testing With Jest**
+- 🔭 I’m currently learning **Typescript and Javascirpt Testing**
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
