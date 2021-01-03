@@ -11,6 +11,7 @@ Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year ol
 
 <br>
 
+<!--
 ### My Stack:
 <p>
 	<a
@@ -97,7 +98,7 @@ Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year ol
 		/>
 	</a>
 </p>
-
+-->
 ### My Github Status 📈 
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&theme=prussian" alt="Eyoatam's Github Status" />
