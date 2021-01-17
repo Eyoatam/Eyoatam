@@ -5,7 +5,7 @@ Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year ol
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
-- 📫  You can reach me through my email **eyoatamtamirat7@gmail.com**
+- 📫  You can reach me through my [Email](mailto:eyoatamtamirat7@gmail.com)
 
 - 😄 pronouns He/Him
 
