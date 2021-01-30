@@ -16,3 +16,9 @@ Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year ol
 </p>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1811](https://github.com/vitejs/vite/issues/1811) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 🎉 Merged PR [#1](https://github.com/Eyoatam/vite-gif-maker/pull/1) in [Eyoatam/vite-gif-maker](https://github.com/Eyoatam/vite-gif-maker)
+3. 💪 Opened PR [#1](https://github.com/Eyoatam/vite-gif-maker/pull/1) in [Eyoatam/vite-gif-maker](https://github.com/Eyoatam/vite-gif-maker)
+4. 🎉 Merged PR [#30](https://github.com/Eyoatam/VueShop/pull/30) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+5. 🎉 Merged PR [#29](https://github.com/Eyoatam/VueShop/pull/29) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+<!--END_SECTION:activity-->
