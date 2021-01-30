@@ -14,3 +14,5 @@ Hi👋, My name's [Eyoatam](https://instagram.com/eyoatam), and I'm a 15 year ol
   <img src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&theme=prussian" alt="Eyoatam's Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyoatam&layout=compact&theme=prussian" alt="Eyoatam's Github Status" />
 </p>
+
+<!--START_SECTION:activity-->
