@@ -1,6 +1,6 @@
 ## Hey There👋🏽
 
-- 🔭 I’m currently learning **Typescript and Deno**
+- 🔭 I’m currently learning **[deno](https://github.com/denoland/deno)**
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
