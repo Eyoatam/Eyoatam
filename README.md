@@ -10,8 +10,6 @@
 
 - 😄 pronouns He/Him
 
-## Projects I am working on 
-
 ## My Github Status 📈 
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=Eyoatam&show_icons=true&theme=prussian" alt="Eyoatam's Github Status" />
