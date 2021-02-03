@@ -4,11 +4,13 @@
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
-- 📫  You can reach me through my [Email](mailto:eyoatamtamirat7@gmail.com)
+- 📫  How to reach me: [Email](mailto:eyoatamtamirat7@gmail.com)
 
 - 💬 Ask me about anything
 
 - 😄 pronouns He/Him
+
+## Projects I am working on 
 
 ## My Github Status 📈 
 <p> 
