@@ -1,5 +1,7 @@
 ## Hey There👋🏽
 
+I am Eyoatam a 15yo, developer from Ethiopia
+
 - 🔭 I’m currently learning **[deno](https://github.com/denoland/deno)**
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
