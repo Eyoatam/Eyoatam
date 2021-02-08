@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Eyoatam/Gif.ts/pull/6) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-2. 🎉 Merged PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-3. 💪 Opened PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-4. 🎉 Merged PR [#4](https://github.com/Eyoatam/Gif.ts/pull/4) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-5. 💪 Opened PR [#4](https://github.com/Eyoatam/Gif.ts/pull/4) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+1. 🎉 Merged PR [#6](https://github.com/Eyoatam/Gif.ts/pull/6) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+2. 💪 Opened PR [#6](https://github.com/Eyoatam/Gif.ts/pull/6) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+3. 🎉 Merged PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+4. 💪 Opened PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+5. 🎉 Merged PR [#4](https://github.com/Eyoatam/Gif.ts/pull/4) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
 <!--END_SECTION:activity-->
