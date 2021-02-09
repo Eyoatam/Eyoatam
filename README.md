@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Eyoatam/Gif.ts/pull/6) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-2. 💪 Opened PR [#6](https://github.com/Eyoatam/Gif.ts/pull/6) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-3. 🎉 Merged PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-4. 💪 Opened PR [#5](https://github.com/Eyoatam/Gif.ts/pull/5) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-5. 🎉 Merged PR [#4](https://github.com/Eyoatam/Gif.ts/pull/4) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+1. ❗️ Opened issue [#7](https://github.com/Eyoatam/Gif.ts/issues/7) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+2. 🎉 Merged PR [#21](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/pull/21) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
+3. 💪 Opened PR [#21](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/pull/21) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
+4. 🗣 Commented on [#17](https://github.com/Eyoatam/prayer-mobilization-bot/issues/17) in [Eyoatam/prayer-mobilization-bot](https://github.com/Eyoatam/prayer-mobilization-bot)
+5. 🗣 Commented on [#20](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/issues/20) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
 <!--END_SECTION:activity-->
