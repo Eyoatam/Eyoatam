@@ -2,7 +2,7 @@
 
 I am Eyoatam a 15yo, developer from Ethiopia
 
-- 🔭 I’m currently learning **[deno](https://github.com/denoland/deno)**
+- 🔭 I’ve been learning **[deno](https://github.com/denoland/deno)** and **[TypeScript](https://github.com/microsoft/TypeScript)** recently 
 
 - 🧑🏽‍💻  You can find all of my projects [Here](https://github.com/Eyoatam?tab=repositories)
 
