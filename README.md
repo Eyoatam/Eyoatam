@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Eyoatam/typescript-node-starter/pull/37) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-2. 🎉 Merged PR [#36](https://github.com/Eyoatam/typescript-node-starter/pull/36) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-3. 🎉 Merged PR [#10](https://github.com/Eyoatam/Gif.ts/pull/10) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-4. ❗️ Closed issue [#9](https://github.com/Eyoatam/Gif.ts/issues/9) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-5. 💪 Opened PR [#10](https://github.com/Eyoatam/Gif.ts/pull/10) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+1. ❗️ Opened issue [#11](https://github.com/Eyoatam/Gif.ts/issues/11) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+2. 🎉 Merged PR [#37](https://github.com/Eyoatam/typescript-node-starter/pull/37) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+3. 🎉 Merged PR [#36](https://github.com/Eyoatam/typescript-node-starter/pull/36) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+4. 🎉 Merged PR [#10](https://github.com/Eyoatam/Gif.ts/pull/10) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+5. ❗️ Closed issue [#9](https://github.com/Eyoatam/Gif.ts/issues/9) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
 <!--END_SECTION:activity-->
