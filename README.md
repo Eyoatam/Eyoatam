@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Eyoatam/VueShop/pull/32) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-2. ❗️ Opened issue [#11](https://github.com/Eyoatam/Gif.ts/issues/11) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-3. 🎉 Merged PR [#37](https://github.com/Eyoatam/typescript-node-starter/pull/37) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-4. 🎉 Merged PR [#36](https://github.com/Eyoatam/typescript-node-starter/pull/36) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-5. 🎉 Merged PR [#10](https://github.com/Eyoatam/Gif.ts/pull/10) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+1. 🎉 Merged PR [#33](https://github.com/Eyoatam/VueShop/pull/33) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+2. ❌ Reopened PR [#33](https://github.com/Eyoatam/VueShop/pull/33) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+3. 🎉 Merged PR [#32](https://github.com/Eyoatam/VueShop/pull/32) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+4. ❗️ Opened issue [#11](https://github.com/Eyoatam/Gif.ts/issues/11) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+5. 🎉 Merged PR [#37](https://github.com/Eyoatam/typescript-node-starter/pull/37) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
 <!--END_SECTION:activity-->
