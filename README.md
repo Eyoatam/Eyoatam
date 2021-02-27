@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/pull/24) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
-2. 🎉 Merged PR [#41](https://github.com/Eyoatam/Mentor-finder-web/pull/41) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-3. 🎉 Merged PR [#36](https://github.com/Eyoatam/VueShop/pull/36) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-4. 🎉 Merged PR [#41](https://github.com/Eyoatam/typescript-node-starter/pull/41) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-5. 🎉 Merged PR [#42](https://github.com/Eyoatam/typescript-node-starter/pull/42) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+1. 🎉 Merged PR [#13](https://github.com/Eyoatam/Gif.ts/pull/13) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+2. 💪 Opened PR [#13](https://github.com/Eyoatam/Gif.ts/pull/13) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+3. 🎉 Merged PR [#24](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/pull/24) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
+4. 🎉 Merged PR [#41](https://github.com/Eyoatam/Mentor-finder-web/pull/41) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+5. 🎉 Merged PR [#36](https://github.com/Eyoatam/VueShop/pull/36) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
 <!--END_SECTION:activity-->
