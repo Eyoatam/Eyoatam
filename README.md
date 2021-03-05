@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/issues/25) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
-2. 🎉 Merged PR [#44](https://github.com/Eyoatam/Mentor-finder-web/pull/44) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-3. 🎉 Merged PR [#40](https://github.com/Eyoatam/VueShop/pull/40) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-4. 🗣 Commented on [#87](https://github.com/denoland/deno_doc/issues/87) in [denoland/deno_doc](https://github.com/denoland/deno_doc)
-5. ❗️ Opened issue [#87](https://github.com/denoland/deno_doc/issues/87) in [denoland/deno_doc](https://github.com/denoland/deno_doc)
+1. 🎉 Merged PR [#43](https://github.com/Eyoatam/typescript-node-starter/pull/43) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+2. 🎉 Merged PR [#44](https://github.com/Eyoatam/typescript-node-starter/pull/44) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+3. 🗣 Commented on [#25](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/issues/25) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
+4. 🎉 Merged PR [#44](https://github.com/Eyoatam/Mentor-finder-web/pull/44) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+5. 🎉 Merged PR [#40](https://github.com/Eyoatam/VueShop/pull/40) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
 <!--END_SECTION:activity-->
