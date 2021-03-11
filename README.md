@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Eyoatam/typescript-node-starter/pull/46) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-2. 🎉 Merged PR [#45](https://github.com/Eyoatam/typescript-node-starter/pull/45) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-3. 🎉 Merged PR [#43](https://github.com/Eyoatam/typescript-node-starter/pull/43) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-4. 🎉 Merged PR [#44](https://github.com/Eyoatam/typescript-node-starter/pull/44) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-5. 🗣 Commented on [#25](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot/issues/25) in [CruSea/prayer-mobilization-nodejs-telegram-bot](https://github.com/CruSea/prayer-mobilization-nodejs-telegram-bot)
+1. 🎉 Merged PR [#2](https://github.com/Eyoatam/vue-contact-manager/pull/2) in [Eyoatam/vue-contact-manager](https://github.com/Eyoatam/vue-contact-manager)
+2. 🎉 Merged PR [#46](https://github.com/Eyoatam/typescript-node-starter/pull/46) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+3. 🎉 Merged PR [#45](https://github.com/Eyoatam/typescript-node-starter/pull/45) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+4. 🎉 Merged PR [#43](https://github.com/Eyoatam/typescript-node-starter/pull/43) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+5. 🎉 Merged PR [#44](https://github.com/Eyoatam/typescript-node-starter/pull/44) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
 <!--END_SECTION:activity-->
