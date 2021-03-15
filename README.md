@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/Eyoatam/Mentor-finder-web/issues/46) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-2. 🎉 Merged PR [#46](https://github.com/Eyoatam/Mentor-finder-web/pull/46) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-3. 🎉 Merged PR [#45](https://github.com/Eyoatam/Mentor-finder-web/pull/45) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-4. 🎉 Merged PR [#41](https://github.com/Eyoatam/VueShop/pull/41) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-5. ❗️ Opened issue [#1](https://github.com/Eyoatam/deno_progress/issues/1) in [Eyoatam/deno_progress](https://github.com/Eyoatam/deno_progress)
+1. 🎉 Merged PR [#47](https://github.com/Eyoatam/typescript-node-starter/pull/47) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+2. 🎉 Merged PR [#42](https://github.com/Eyoatam/VueShop/pull/42) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+3. 🗣 Commented on [#46](https://github.com/Eyoatam/Mentor-finder-web/issues/46) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+4. 🎉 Merged PR [#46](https://github.com/Eyoatam/Mentor-finder-web/pull/46) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+5. 🎉 Merged PR [#45](https://github.com/Eyoatam/Mentor-finder-web/pull/45) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
 <!--END_SECTION:activity-->
