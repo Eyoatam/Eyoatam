@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Eyoatam/VueShop/pull/46) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-2. 🎉 Merged PR [#50](https://github.com/Eyoatam/Mentor-finder-web/pull/50) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-3. 🎉 Merged PR [#45](https://github.com/Eyoatam/VueShop/pull/45) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-4. 🎉 Merged PR [#44](https://github.com/Eyoatam/VueShop/pull/44) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-5. 🎉 Merged PR [#47](https://github.com/Eyoatam/Mentor-finder-web/pull/47) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+1. 🎉 Merged PR [#15](https://github.com/Eyoatam/Gif.ts/pull/15) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+2. 💪 Opened PR [#15](https://github.com/Eyoatam/Gif.ts/pull/15) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+3. 🎉 Merged PR [#46](https://github.com/Eyoatam/VueShop/pull/46) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+4. 🎉 Merged PR [#50](https://github.com/Eyoatam/Mentor-finder-web/pull/50) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+5. 🎉 Merged PR [#45](https://github.com/Eyoatam/VueShop/pull/45) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
 <!--END_SECTION:activity-->
