@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Eyoatam/math_magic/pull/1) in [Eyoatam/math_magic](https://github.com/Eyoatam/math_magic)
-2. 💪 Opened PR [#1](https://github.com/Eyoatam/math_magic/pull/1) in [Eyoatam/math_magic](https://github.com/Eyoatam/math_magic)
-3. 🎉 Merged PR [#15](https://github.com/Eyoatam/Gif.ts/pull/15) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-4. 💪 Opened PR [#15](https://github.com/Eyoatam/Gif.ts/pull/15) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-5. 🎉 Merged PR [#46](https://github.com/Eyoatam/VueShop/pull/46) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+1. 🎉 Merged PR [#52](https://github.com/Eyoatam/typescript-node-starter/pull/52) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+2. 🎉 Merged PR [#51](https://github.com/Eyoatam/typescript-node-starter/pull/51) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+3. 🎉 Merged PR [#1](https://github.com/Eyoatam/math_magic/pull/1) in [Eyoatam/math_magic](https://github.com/Eyoatam/math_magic)
+4. 💪 Opened PR [#1](https://github.com/Eyoatam/math_magic/pull/1) in [Eyoatam/math_magic](https://github.com/Eyoatam/math_magic)
+5. 🎉 Merged PR [#15](https://github.com/Eyoatam/Gif.ts/pull/15) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
 <!--END_SECTION:activity-->
