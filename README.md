@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Eyoatam/Gif.ts/pull/19) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-2. ❗️ Closed issue [#18](https://github.com/Eyoatam/Gif.ts/issues/18) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-3. 💪 Opened PR [#19](https://github.com/Eyoatam/Gif.ts/pull/19) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-4. 🎉 Merged PR [#17](https://github.com/Eyoatam/Gif.ts/pull/17) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
-5. ❗️ Closed issue [#16](https://github.com/Eyoatam/Gif.ts/issues/16) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+1. 🎉 Merged PR [#53](https://github.com/Eyoatam/Mentor-finder-web/pull/53) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+2. 🎉 Merged PR [#49](https://github.com/Eyoatam/VueShop/pull/49) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+3. 🎉 Merged PR [#19](https://github.com/Eyoatam/Gif.ts/pull/19) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+4. ❗️ Closed issue [#18](https://github.com/Eyoatam/Gif.ts/issues/18) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
+5. 💪 Opened PR [#19](https://github.com/Eyoatam/Gif.ts/pull/19) in [Eyoatam/Gif.ts](https://github.com/Eyoatam/Gif.ts)
 <!--END_SECTION:activity-->
