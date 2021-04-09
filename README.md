@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Bereket-G/A-for-apple/pull/11) in [Bereket-G/A-for-apple](https://github.com/Bereket-G/A-for-apple)
-2. 🎉 Merged PR [#52](https://github.com/Eyoatam/VueShop/pull/52) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-3. 🎉 Merged PR [#56](https://github.com/Eyoatam/Mentor-finder-web/pull/56) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
-4. 🎉 Merged PR [#51](https://github.com/Eyoatam/VueShop/pull/51) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
-5. 🎉 Merged PR [#3](https://github.com/Eyoatam/vue3-challenge/pull/3) in [Eyoatam/vue3-challenge](https://github.com/Eyoatam/vue3-challenge)
+1. 🎉 Merged PR [#54](https://github.com/Eyoatam/typescript-node-starter/pull/54) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+2. 🎉 Merged PR [#53](https://github.com/Eyoatam/VueShop/pull/53) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
+3. 🎉 Merged PR [#57](https://github.com/Eyoatam/Mentor-finder-web/pull/57) in [Eyoatam/Mentor-finder-web](https://github.com/Eyoatam/Mentor-finder-web)
+4. 💪 Opened PR [#11](https://github.com/Bereket-G/A-for-apple/pull/11) in [Bereket-G/A-for-apple](https://github.com/Bereket-G/A-for-apple)
+5. 🎉 Merged PR [#52](https://github.com/Eyoatam/VueShop/pull/52) in [Eyoatam/VueShop](https://github.com/Eyoatam/VueShop)
 <!--END_SECTION:activity-->
