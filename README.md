@@ -21,9 +21,9 @@ I am Eyoatam a 15yo, developer from Ethiopia
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/Eyoatam/typescript-node-starter/issues/56) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-2. 🎉 Merged PR [#56](https://github.com/Eyoatam/typescript-node-starter/pull/56) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-3. 🗣 Commented on [#57](https://github.com/Eyoatam/typescript-node-starter/issues/57) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-4. 🎉 Merged PR [#57](https://github.com/Eyoatam/typescript-node-starter/pull/57) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
-5. 🎉 Merged PR [#55](https://github.com/Eyoatam/typescript-node-starter/pull/55) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+1. 🎉 Merged PR [#1](https://github.com/Eyoatam/remove_comments/pull/1) in [Eyoatam/remove_comments](https://github.com/Eyoatam/remove_comments)
+2. 💪 Opened PR [#1](https://github.com/Eyoatam/remove_comments/pull/1) in [Eyoatam/remove_comments](https://github.com/Eyoatam/remove_comments)
+3. 🗣 Commented on [#56](https://github.com/Eyoatam/typescript-node-starter/issues/56) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+4. 🎉 Merged PR [#56](https://github.com/Eyoatam/typescript-node-starter/pull/56) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
+5. 🗣 Commented on [#57](https://github.com/Eyoatam/typescript-node-starter/issues/57) in [Eyoatam/typescript-node-starter](https://github.com/Eyoatam/typescript-node-starter)
 <!--END_SECTION:activity-->
